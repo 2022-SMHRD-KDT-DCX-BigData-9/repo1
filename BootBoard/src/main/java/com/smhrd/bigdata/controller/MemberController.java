@@ -14,6 +14,9 @@ import com.smhrd.bigdata.service.MemberService;
 @Controller
 public class MemberController {
 
+	// 안상우 15:50
+	// hello world
+	// this is a test
 	@Autowired
 	MemberService service;
 	
